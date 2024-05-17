@@ -5,7 +5,7 @@ This repository contains code for time series forecasting using various machine 
 To get started with this project, follow these steps:
 
 **Clone the repository to your local machine:**
-      **git clone https://github.com/your-username/time-series-forecasting.git**
+      **git clone https://github.com/code-boss-code/stockpriceforcasting.git**
 **Install the required dependencies:**
 
 **Dataset**
