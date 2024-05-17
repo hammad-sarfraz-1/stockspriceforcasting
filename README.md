@@ -7,6 +7,8 @@ To get started with this project, follow these steps:
 **Clone the repository to your local machine:**
       **git clone https://github.com/code-boss-code/stockpriceforcasting.git**
 **Install the required dependencies:**
+     pip install pandas numpy matplotlib seaborn scipy statsmodels scikit-learn tensorflow prophet
+
 
 **Dataset**
 The dataset used in this project is a time series dataset containing historical data of a particular phenomenon. It includes features such as timestamp and value of the phenomenon at each timestamp.
