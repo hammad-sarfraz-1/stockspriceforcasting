@@ -26,9 +26,9 @@ The following machine learning models are implemented and evaluated in this proj
   - SARIMA
 **Evaluation Metrics**
 The performance of each model is evaluated using the following metrics:
-  - Mean Absolute Error (MAE)
-  - Mean Squared Error (MSE)
-  - Root Mean Squared Error (RMSE)
+       - Mean Absolute Error (MAE)
+       - Mean Squared Error (MSE)
+       - Root Mean Squared Error (RMSE)
 
 **Contributing**
 Contributions to this project are welcome. Feel free to open an issue or submit a pull request with any improvements or suggestions.
